@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0",
+    "sketch": "spikes/control_a_servo.cpp/test.ino",
+    "programmer": "arduino:avrisp"
+}
